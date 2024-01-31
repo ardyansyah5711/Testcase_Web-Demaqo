@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_5 rows10 rows20 rows25 rows50 rows100 rows</name>
+   <tag></tag>
+   <elementGuidId>045d2c4e-e7dc-4973-be41-dc6a15d3af55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[2]/span[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f55e1562-3667-44e6-9edc-e9fb2153fbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>rows per page</value>
+      <webElementGuid>9dd26ebe-d399-4724-a374-21738e9d3fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5 rows10 rows20 rows25 rows50 rows100 rows</value>
+      <webElementGuid>28c28369-5aad-42ac-ac9c-e58d52c7dd8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;profile-wrapper&quot;]/div[@class=&quot;ReactTable -striped -highlight&quot;]/div[@class=&quot;pagination-bottom&quot;]/div[@class=&quot;-pagination&quot;]/div[@class=&quot;-center&quot;]/span[@class=&quot;select-wrap -pageSizeOptions&quot;]/select[1]</value>
+      <webElementGuid>da88fd58-1681-4db9-8bb7-b1b982c86d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[2]/span[2]/select</value>
+      <webElementGuid>133fd126-6bb7-42a6-89cb-1feec5d48a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>547d6316-1f92-4887-bb5f-1a9ea048bfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '5 rows10 rows20 rows25 rows50 rows100 rows' or . = '5 rows10 rows20 rows25 rows50 rows100 rows')]</value>
+      <webElementGuid>14cbcce1-76bd-421d-b6da-a5eea2179e30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

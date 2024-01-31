@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginNew User</name>
+   <tag></tag>
+   <elementGuidId>4c3816d8-f531-4797-877e-43aab0430e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-2.buttonWrap.row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4e0a6cb-ed75-476b-bf2e-928a1dc8a95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 buttonWrap row</value>
+      <webElementGuid>5d96052d-1641-46ed-bdd6-3ec9683e7340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginNew User</value>
+      <webElementGuid>e6bd3343-52ef-4fcf-9de5-1230399a316f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/div[@class=&quot;mt-2 buttonWrap row&quot;]</value>
+      <webElementGuid>96b00d14-ff60-472d-8185-672a23e62bd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/div[4]</value>
+      <webElementGuid>396cfc0b-b201-49a1-b8c0-18cd8351e2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>e414a77a-ef53-4418-b92f-f6aa2062ddf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginNew User' or . = 'LoginNew User')]</value>
+      <webElementGuid>ce49fad8-c068-41d5-b3a1-ac944a9bfb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path (1)</name>
+   <tag></tag>
+   <elementGuidId>646af2ee-8d66-493e-9fbb-b495ea36d118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>60b308a9-f4d3-45e8-b4bb-a24f6fef9777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0,0l15,0l0,15l-15,0Z</value>
+      <webElementGuid>b535cf6a-6dc6-448f-9e72-899725b32d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#cdcccc</value>
+      <webElementGuid>0a534925-6ede-4c3f-bd62-2549200ba9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbb&quot;)/svg[1]/path[1]</value>
+      <webElementGuid>e57e70ce-dcad-4ebd-b47e-cbd2bf73a739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_DEMOQA/iframe_google_ads_iframe_21849154601,223432_0f81f7</value>
+      <webElementGuid>d675437b-d61c-4823-8b8f-1e2802619bbf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

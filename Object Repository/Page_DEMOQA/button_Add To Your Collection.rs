@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add To Your Collection</name>
+   <tag></tag>
+   <elementGuidId>1c04525f-23c1-46b6-8488-969723d2ecbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='addNewRecordButton'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right.fullButton > #addNewRecordButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37a381ba-e91b-4012-88d7-fb72ecdb6415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addNewRecordButton</value>
+      <webElementGuid>7e386419-4ec5-4543-9029-131c2f965346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>377986a7-dad7-40d7-a448-ddab650247a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>eb0c9a66-1a64-422b-bd82-0686e159149c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add To Your Collection</value>
+      <webElementGuid>7cd6e48d-2d3f-4b5a-bcb8-190deb9e3134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;books-wrapper&quot;]/div[@class=&quot;profile-wrapper&quot;]/div[@class=&quot;mt-2 fullButtonWrap row&quot;]/div[@class=&quot;text-right fullButton&quot;]/button[@id=&quot;addNewRecordButton&quot;]</value>
+      <webElementGuid>b64433c3-2920-473a-b5f0-c3ebd70cdb77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='addNewRecordButton'])[2]</value>
+      <webElementGuid>2779bc5c-2ab0-4c87-832a-1ef9e7324e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/div[9]/div[2]/button</value>
+      <webElementGuid>a5b55483-8607-49fa-9b89-96c7f5154972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>400c898b-da36-4532-8078-d4025d3a23fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addNewRecordButton' and @type = 'button' and (text() = 'Add To Your Collection' or . = 'Add To Your Collection')]</value>
+      <webElementGuid>24594627-2973-405c-8123-ac19521a7cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
